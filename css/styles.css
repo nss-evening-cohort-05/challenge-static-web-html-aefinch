@@ -1,0 +1,46 @@
+body {
+	background-color: #00709B;
+	color: #FFF;
+	margin: 0;
+}
+
+/*Apply header styling the full width of the screen*/
+header {
+	background-color: #36C5FC;
+	width: 100%;
+}
+h1 {
+	text-align: center;
+	margin-top: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+/*Create centered full circle picture */
+.myPic {
+	border-radius: 100%;
+	max-width: 20%;
+	display: block;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+article {
+	padding: 10px;
+}
+section {
+	display: block;
+	text-align: center;
+	margin: auto;
+
+}
+footer {
+	background-color: #8C8883;
+	padding: 15px 0 15px 0;
+}
+
+/*Display contact info and links in a single line in the footer*/
+.contactInfo {
+	display: inline-block;
+}
