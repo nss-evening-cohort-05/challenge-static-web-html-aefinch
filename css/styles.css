@@ -3,6 +3,8 @@ body {
 	color: #FFF;
 	margin: 0;
 }
+
+/*Apply header styling the full width of the screen*/
 header {
 	background-color: #36C5FC;
 	width: 100%;
@@ -13,6 +15,8 @@ h1 {
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
+
+/*Create centered full circle picture */
 .myPic {
 	border-radius: 100%;
 	max-width: 20%;
@@ -35,6 +39,8 @@ footer {
 	background-color: #8C8883;
 	padding: 15px 0 15px 0;
 }
+
+/*Display contact info and links in a single line in the footer*/
 .contactInfo {
 	display: inline-block;
 }
